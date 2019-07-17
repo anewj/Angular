@@ -1,7 +1,7 @@
 # TitanCollectables
 
 This project uses 
-angular version 8.0.6
+angular version 8.0.6,
 Node version 12+
 
 ## Development server
