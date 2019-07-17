@@ -1,0 +1,19 @@
+<app-carousel></app-carousel>
+<div class="container">
+  <div class="row">
+    <div *ngFor="let item of preOrder | async" class="col-sm-3">
+      <div class="card" on-mouseover="hello()">
+        <img class="card-img-top" src="{{item.imageUrl}}" alt={{item.name}}>
+        <div class="card-body">
+          <h5 class="card-title">{{item.name}}</h5>
+          <span class="priceGreen" *ngIf="item.listPrice == item.offerPrice">{{item.offerPrice | currency:'AUD'}}</span>
+          <span class="priceGreen" *ngIf="item.listPrice != item.offerPrice">{{item.offerPrice| currency:'AUD'}} <span class="strike">{{item.listPrice| currency:'AUD'}}</span></span>
+          <div>[{{item.identifier}}]</div>
+          <a href="#" class="btn btn-info">PREORDER</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+

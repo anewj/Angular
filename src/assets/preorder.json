@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "1",
+    "url": "https://picsum.photos/id/14/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "100",
+    "preOrderPrice": "50"
+  },
+  {
+    "id": 2,
+    "name": "2",
+    "url": "https://picsum.photos/id/27/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "100",
+    "preOrderPrice": "100"
+  },
+  {
+    "id": 3,
+    "name": "3",
+    "url": "https://picsum.photos/id/31/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "200",
+    "preOrderPrice": "200"
+  },
+  {
+    "id": 4,
+    "name": "4",
+    "url": "https://picsum.photos/id/42/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "200",
+    "preOrderPrice": "180"
+  },
+  {
+    "id": 5,
+    "name": "5",
+    "url": "https://picsum.photos/id/544/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "200",
+    "preOrderPrice": "150"
+  },
+  {
+    "id": 6,
+    "name": "6",
+    "url": "https://picsum.photos/id/623/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "300",
+    "preOrderPrice": "300"
+  },
+  {
+    "id": 7,
+    "name": "7",
+    "url": "https://picsum.photos/id/72/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "500",
+    "preOrderPrice": "500"
+  },
+  {
+    "id": 8,
+    "name": "8",
+    "url": "https://picsum.photos/id/866/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "400",
+    "preOrderPrice": "400"
+  },
+  {
+    "id": 9,
+    "name": "9",
+    "url": "https://picsum.photos/id/923/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "1000",
+    "preOrderPrice": "500"
+  },
+  {
+    "id": 10,
+    "name": "10",
+    "url": "https://picsum.photos/id/1023/200/300",
+    "universe": "marvel",
+    "manufacturer": "marvel",
+    "item_id": "001",
+    "listPrice": "399",
+    "preOrderPrice": "299"
+  }
+]
